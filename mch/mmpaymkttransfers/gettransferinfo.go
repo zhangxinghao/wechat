@@ -1,7 +1,7 @@
 package mmpaymkttransfers
 
 import (
-	"gopkg.in/chanxuehong/wechat.v2/mch/core"
+	"gopkg.in/zhangxinghao/wechat.v3/mch/core"
 )
 
 // 查询企业付款.
