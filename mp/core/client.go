@@ -8,9 +8,9 @@ import (
 	"net/url"
 	"reflect"
 
-	"gopkg.in/chanxuehong/wechat.v2/internal/debug/api"
-	"gopkg.in/chanxuehong/wechat.v2/internal/debug/api/retry"
-	"gopkg.in/chanxuehong/wechat.v2/util"
+	"gopkg.in/zhangxinghao/wechat.v3/internal/debug/api"
+	"gopkg.in/zhangxinghao/wechat.v3/internal/debug/api/retry"
+	"gopkg.in/zhangxinghao/wechat.v3/util"
 )
 
 type Client struct {

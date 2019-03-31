@@ -1,8 +1,8 @@
 package device
 
 import (
-	"gopkg.in/chanxuehong/wechat.v2/internal/util"
-	"gopkg.in/chanxuehong/wechat.v2/mp/core"
+	"gopkg.in/zhangxinghao/wechat.v3/internal/util"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/core"
 )
 
 type SearchQuery struct {

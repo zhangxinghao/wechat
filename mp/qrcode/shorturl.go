@@ -1,8 +1,8 @@
 package qrcode
 
 import (
-	"gopkg.in/chanxuehong/wechat.v2/mp/base"
-	"gopkg.in/chanxuehong/wechat.v2/mp/core"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/base"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/core"
 )
 
 // ShortURL 将一条长链接转成短链接.

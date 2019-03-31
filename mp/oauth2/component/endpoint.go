@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"net/url"
 
-	"gopkg.in/chanxuehong/wechat.v2/oauth2"
+	"gopkg.in/zhangxinghao/wechat.v3/oauth2"
 )
 
 var _ oauth2.Endpoint = (*Endpoint)(nil)
 
-// Endpoint 实现了 wechat.v2/oauth2.Endpoint 接口.
+// Endpoint 实现了 zhangxinghao.v3/oauth2.Endpoint 接口.
 type Endpoint struct {
 	AppId                string
 	ComponentAppId       string

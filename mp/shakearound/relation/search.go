@@ -3,9 +3,9 @@ package relation
 import (
 	"errors"
 
-	"gopkg.in/chanxuehong/wechat.v2/internal/util"
-	"gopkg.in/chanxuehong/wechat.v2/mp/core"
-	"gopkg.in/chanxuehong/wechat.v2/mp/shakearound/device"
+	"gopkg.in/zhangxinghao/wechat.v3/internal/util"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/core"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/shakearound/device"
 )
 
 type SearchQuery struct {

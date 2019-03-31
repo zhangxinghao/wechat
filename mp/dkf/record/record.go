@@ -4,7 +4,7 @@ package record
 import (
 	"fmt"
 
-	"gopkg.in/chanxuehong/wechat.v2/mp/core"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/core"
 )
 
 type Record struct {

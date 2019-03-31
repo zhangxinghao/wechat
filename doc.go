@@ -1,2 +1,2 @@
-// https://gopkg.in/chanxuehong/wechat.v2
+// https://gopkg.in/zhangxinghao/wechat.v3
 package wechat

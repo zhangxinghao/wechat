@@ -1,8 +1,8 @@
 package userinfo
 
 import (
-	"gopkg.in/chanxuehong/wechat.v2/mp/card/code"
-	"gopkg.in/chanxuehong/wechat.v2/mp/core"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/card/code"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/core"
 )
 
 type CustomField struct {

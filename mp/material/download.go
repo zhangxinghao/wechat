@@ -10,10 +10,10 @@ import (
 	"os"
 	"unicode"
 
-	"gopkg.in/chanxuehong/wechat.v2/internal/debug/api"
-	"gopkg.in/chanxuehong/wechat.v2/internal/debug/api/retry"
-	"gopkg.in/chanxuehong/wechat.v2/mp/core"
-	"gopkg.in/chanxuehong/wechat.v2/util"
+	"gopkg.in/zhangxinghao/wechat.v3/internal/debug/api"
+	"gopkg.in/zhangxinghao/wechat.v3/internal/debug/api/retry"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/core"
+	"gopkg.in/zhangxinghao/wechat.v3/util"
 )
 
 // Download 下载多媒体到文件.

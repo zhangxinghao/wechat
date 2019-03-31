@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"gopkg.in/chanxuehong/wechat.v2/internal/debug/api"
+	"gopkg.in/zhangxinghao/wechat.v3/internal/debug/api"
 )
 
 // ExchangeToken 通过 code 换取网页授权 access_token.

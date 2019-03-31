@@ -1,7 +1,7 @@
 package mass2users
 
 import (
-	"gopkg.in/chanxuehong/wechat.v2/mp/core"
+	"gopkg.in/zhangxinghao/wechat.v3/mp/core"
 )
 
 const (
